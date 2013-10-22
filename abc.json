@@ -1,0 +1,14 @@
+{
+    "name": "updown",
+    "version": "1.0",
+    "desc": "顶踩组件，模拟实现异步获取是否成功，也可以简单修改源码实现真实的顶踩后台交互",
+    "cover": "",
+    "tag":"顶踩",
+    "author": {
+        "name": "齐修",
+        "email": "yanbei.chenyb@alibaba-inc.com",
+        "page": ""
+    },
+    "type": "kissy-gallery",
+    "type-url": "http://gallery.kissyui.com/guide"
+}
